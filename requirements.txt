@@ -1,0 +1,5 @@
+nextcord
+psutil
+pytz
+bs4
+geopy
